@@ -19,9 +19,9 @@ into "Other" AND move BrcmBluetoothInjector.kext out of the "Other" Folder. DonÂ
 
 To get the Sleepmode properly working you need to execute the following commands in the Terminal.
 
-sudo pmset hibernatemode 0
-sudo rm /var/vm/sleepimage
-sudo touch /var/vm/sleepimage
-sudo chflags uchg /var/vm/sleepimage
+  sudo pmset hibernatemode 0
+  sudo rm /var/vm/sleepimage
+  sudo touch /var/vm/sleepimage
+  sudo chflags uchg /var/vm/sleepimage
 
 Done! Now enjoy your fully working Hackbook. (-:
