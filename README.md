@@ -1,4 +1,4 @@
-# T430-Hackintosh i5-3320M
+# T430-Hackintosh i5-3320M (Intel HD 4000 - 1366x768)
 Installing Sierra on a T430
 
 All necessary Files for installing Sierra on this Machine.
